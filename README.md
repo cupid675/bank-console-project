@@ -1,4 +1,4 @@
-// bank-console-project
+// bank-console-project.
 //mini project using c console application 
 #include<stdio.h>
 #include<stdlib.h>
