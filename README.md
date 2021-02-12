@@ -1,1 +1,1 @@
-# All these are my mini projects develope when iam learning differen language 
+# All these are my mini projects developed when iam learning different languages
