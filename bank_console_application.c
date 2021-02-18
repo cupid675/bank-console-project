@@ -353,7 +353,7 @@ int main()
 
     char current[40],pass[40]="cupidlove";
     system("color F");
-printf("\n\n\n\n\n\n\n\n\n\t\t\t Welocome to Cupid  bank enter password to continue:");
+printf("\n\n\n\n\n\n\n\n\n\t\t\t Welocome to Cupid  bank enter your password to continue:");
 gets(current);
 printf("\n\n\n");
 check(current,pass);
